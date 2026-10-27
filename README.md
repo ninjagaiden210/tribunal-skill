@@ -1,4 +1,4 @@
-# ⚖️ Tribunal — skill do Claude em português
+# ⚖️ Tribunal — skill do Claude
 
 Pare de perguntar pro Claude se a sua ideia é boa. **Coloque ela em julgamento.**
 
