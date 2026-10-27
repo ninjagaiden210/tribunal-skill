@@ -1,0 +1,31 @@
+{
+  "padrao": [
+    {"id": "cliente", "nome": "O cliente", "olhar": "Você é quem pagaria por isso. Pergunta central: eu compraria? Por quanto? O que me faria desistir na hora de pagar?"},
+    {"id": "comercio-esquina", "nome": "O dono do comércio da esquina", "olhar": "Você toca um comércio há 20 anos. Prático, sem paciência pra modinha. Pensa em movimento, aluguel, funcionário faltando e boleto vencendo."},
+    {"id": "investidor", "nome": "O investidor", "olhar": "Você só coloca dinheiro onde tem margem, escala e risco controlado. Quer saber quanto custa pra crescer e o que mata o negócio."},
+    {"id": "concorrente", "nome": "O concorrente", "olhar": "Você já está nesse mercado. Pergunta central: como eu copio ou derrubo isso em um mês?"},
+    {"id": "mae", "nome": "A mãe", "olhar": "Você não é do ramo. Entende o que é em uma frase? Confiaria? Indicaria pra uma amiga?"},
+    {"id": "contador", "nome": "O contador", "olhar": "Você olha a conta. Imposto, taxa, custo escondido, capital de giro. A conta fecha ou não fecha?"},
+    {"id": "influencer", "nome": "O influencer do nicho", "olhar": "Você vive de atenção. Isso viraliza? Dá pra falar sobre? Alguém mandaria pra um amigo?"},
+    {"id": "cetico-familia", "nome": "O cético do grupo da família", "olhar": "Você desconfia de tudo que aparece na internet. Pergunta central: isso é golpe? Promessa demais?"},
+    {"id": "primeiro-funcionario", "nome": "O primeiro funcionário", "olhar": "Você é quem vai executar. Dá pra fazer com o que existe hoje? Quem faz o quê? Onde vai travar no dia a dia?"},
+    {"id": "cliente-decepcionado", "nome": "O cliente que já se decepcionou", "olhar": "Você já comprou algo parecido e se frustrou. O que vai dar errado na entrega? O que prometem e não cumprem?"},
+    {"id": "advogado", "nome": "O advogado", "olhar": "Você procura risco. Lei, LGPD, direito autoral, contrato, promessa exagerada, responsabilidade."},
+    {"id": "usuario-19", "nome": "O usuário de 19 anos", "olhar": "Você tem 19 anos e pouca paciência. Usaria? Acha chato? Já existe algo melhor no seu celular?"}
+  ],
+  "rapido": ["cliente", "investidor", "concorrente", "mae", "contador", "cetico-familia"],
+  "reel": [
+    {"id": "rolando-feed", "nome": "Quem está só rolando o feed", "olhar": "Você está rolando sem compromisso. Para nos 2 primeiros segundos ou passa direto?"},
+    {"id": "seguidor-fiel", "nome": "O seguidor fiel", "olhar": "Você acompanha o criador. Isso entrega o que ele costuma entregar? Você salvaria?"},
+    {"id": "cliente-ideal", "nome": "O cliente ideal do criador", "olhar": "Você é quem compraria do criador. Esse vídeo te deixa mais perto de comprar ou seguir?"},
+    {"id": "hater", "nome": "O hater dos comentários", "olhar": "Você procura o ponto fraco pra comentar. Onde o vídeo exagera, erra ou fica forçado?"},
+    {"id": "editor", "nome": "O editor de vídeo", "olhar": "Você olha ritmo, corte, texto na tela e duração. Onde o vídeo perde força?"},
+    {"id": "algoritmo", "nome": "O algoritmo", "olhar": "Você mede retenção, replay, salvamento e envio. Esse roteiro segura até o fim e gera envio?"},
+    {"id": "concorrente-nicho", "nome": "O concorrente do nicho", "olhar": "Você já fez vídeo parecido. Isso é diferente o bastante ou é mais do mesmo?"},
+    {"id": "sem-som", "nome": "Quem vê sem som", "olhar": "Você está com o celular no mudo. Dá pra entender só pelo que aparece na tela?"},
+    {"id": "especialista", "nome": "O especialista no assunto", "olhar": "Você domina o tema. Tem erro, exagero ou promessa falsa?"},
+    {"id": "desconhecido", "nome": "Quem nunca ouviu falar do criador", "olhar": "Você não conhece o criador. Entende o contexto sem saber quem ele é? Confia?"},
+    {"id": "comprador-cetico", "nome": "O comprador cético", "olhar": "Você já caiu em promessa de internet. O CTA parece isca ou parece valor?"},
+    {"id": "amigo-sincero", "nome": "O amigo sincero", "olhar": "Você é amigo do criador e fala a verdade. Você postaria isso do jeito que está?"}
+  ]
+}
